@@ -69,13 +69,13 @@ public class XmlLocalizationHelperPatch
         if (localizationManager != null)
         {
             FileLog.Log("[Harmony] LocalizationManager content:");
-            string csvPath = "test.csv";
+            string csvPath = Path.Combine(BepInEx.Paths.PluginPath,"ExternalTranslate/","test.csv");
             FileLog.Log($"[Harmony] Reading CSV path: {csvPath}");
             var rows = CsvReader.ReadCsv(csvPath);
 
             foreach (var row in rows)
             {
-                FileLog.Log($"CSV row: {string.Join(" | ", row)}");
+                FileLog.Log($"CSV row: {row[0]}");
             }
         }
         else

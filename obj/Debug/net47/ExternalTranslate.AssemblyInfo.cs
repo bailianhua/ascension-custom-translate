@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExternalTranslate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c388933025b2c7ca87db2a834d21ef470e5d8f4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("My first plugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExternalTranslate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -106,3 +106,4 @@
 /Users/korrakoch/Codes/side/Acension/ExternalTranslate/obj/Debug/net47/ExternalTranslate.dll
 /Users/korrakoch/Codes/side/Acension/ExternalTranslate/obj/Debug/net47/ExternalTranslate.pdb
 /Users/korrakoch/Codes/side/Acension/ExternalTranslate/bin/Debug/net47/GameFramework.dll
+/Users/korrakoch/Codes/side/Acension/ExternalTranslate/obj/Debug/net47/ExternalTranslate.sourcelink.json
